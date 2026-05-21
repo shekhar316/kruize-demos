@@ -2,6 +2,8 @@
 
 ## Executive Summary
 
+> NOTE: THIS COMPARISION IS DONE BY BOB (AI GENERATED, NEEDS TO BE CAREFULLY REVIEWED)
+
 Demo-v2 represents a complete modernization of Kruize demos from bash scripts to a professional Python application. This transformation delivers **significant value** through improved user experience, maintainability, and extensibility while maintaining full feature parity with existing demos.
 
 ---

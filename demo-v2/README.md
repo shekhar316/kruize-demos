@@ -1,5 +1,7 @@
 # Kruize Demos v2 - Python Edition
 
+> NOTE: THIS COMPARISION IS DONE BY BOB (AI GENERATED, NEEDS TO BE CAREFULLY REVIEWED)
+
 A complete Python rewrite of Kruize demos with an interactive CLI interface for easier onboarding and usage.
 
 ## 🎯 Features
